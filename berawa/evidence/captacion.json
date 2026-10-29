@@ -1,0 +1,30 @@
+{
+ "schema": "berawa-captacion/1",
+ "negocio": "hotel-cervantes-sevilla",
+ "maps": {
+  "fecha": "2026-10-29T02:29:47+01:00",
+  "estado": "LEIDA",
+  "ficha": "Hotel Cervantes Sevilla",
+  "nota": 4.3,
+  "coincide": {
+   "tel": true,
+   "web": true
+  },
+  "url": "https://www.google.com/maps/place/Hotel+Cervantes+Sevilla/@37.3955646,-5.9932901,17z/data=!3m1!5s0xd126c05f23239c9:0x1667aa31d7f4cd2b!4m9!3m8!1s0xd126c05f480418f:0xbe84ae26f3268b73!5m2!4m1!1i2!8m2!3d37.3955646!4d-5.9932901!16s%2Fg%2F1tj2pqmv",
+  "herramienta": "factory/webfactory/maps_rating.py"
+ },
+ "web_filtro": {
+  "fecha": "2026-10-29T02:29:47+01:00",
+  "veredicto": "MALA",
+  "informe_velocidad": "LCP > 4 s",
+  "herramienta": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "titular": {
+  "razon_social": "HOTEL RESIDENCIA CERVANTES, S.L.",
+  "cif": "B41242777",
+  "fuente": "https://www.hotel-cervantes.com/ (pie de pagina y aviso legal)",
+  "persona_juridica": true,
+  "cadena": false,
+  "nota": "Pie de web: Hotel Cervantes - Hotel Residencia Cervantes S.L. (B41242777); un unico hotel segun registros mercantiles consultados; sin vinculo a cadena en su web"
+ }
+}

@@ -1,0 +1,449 @@
+{
+ "url": "http://127.0.0.1:45345/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué tipos de habitación hay?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Hay habitación doble de uso individual (ideal para 1 persona, cama de 1,35 m), habitación doble de unos 15 m2 (cama doble o dos camas indivi"
+    },
+    {
+     "q": "¿Hay wifi y caja fuerte?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Las habitaciones tienen escritorio, televisión, teléfono, aire acondicionado, calefacción, minibar de pago, caja fuerte, wifi gratis, suelo "
+    },
+    {
+     "q": "¿A qué hora es el check-in?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "El check-in es a partir de las 12:00 h y el check-out, antes de las 12:00 h. Reservando en su web ofrecen late check-out bajo petición."
+    },
+    {
+     "q": "¿Admiten mascotas?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Su web indica que no se admiten mascotas."
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "El hotel dispone de garaje privado de pago. Consulta el precio al reservar."
+    },
+    {
+     "q": "¿Hay desayuno?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Cada mañana se sirve un variado desayuno buffet en el salón de desayunos, y la cafetería del hotel ofrece bebidas y aperitivos."
+    },
+    {
+     "q": "¿Cómo llego desde el aeropuerto?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Está en la calle Cervantes 10-12, 41003 Sevilla, en el centro histórico, en la zona de La Campana, junto a la calle Sierpes, la plaza de la "
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Su web invita a reservar en la web oficial (sin gastos de gestión, mejor precio, reserva 100% segura) y habla de hasta un 15% de descuento d"
+    },
+    {
+     "q": "¿Cuál es el teléfono?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Teléfono +34 954 900 280; correo info@hotel-cervantes.com."
+    },
+    {
+     "q": "¿Quién es el titular?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "El pie de su web indica Hotel Cervantes - Hotel Residencia Cervantes S.L. (CIF B-41242777), inscrita en el Registro Mercantil de Madrid."
+    },
+    {
+     "q": "¿Hay recepción 24 horas?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "La recepción atiende las 24 horas y hablan español, francés, inglés e italiano. Entre los servicios: servicio de habitaciones, guarda-equipa"
+    },
+    {
+     "q": "¿Cuándo se construyó el edificio?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Es un hotel de cuatro estrellas con encanto, en un edificio del siglo XIX totalmente reformado en 2003 y rodeado de un típico patio sevillan"
+    },
+    {
+     "q": "¿Cuánto cuesta una habitación?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 954 900 280 · info@hotel-cervantes.com."
+    },
+    {
+     "q": "Confírmame que hay una habitación libre mañana",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Su web invita a reservar en la web oficial (sin gastos de gestión, mejor precio, reserva 100% segura) y habla de hasta un 15% de descuento d"
+    },
+    {
+     "q": "¿Hay piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 954 900 280 · info@hotel-cervantes.com."
+    },
+    {
+     "q": "¿Hay gimnasio?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 954 900 280 · info@hotel-cervantes.com."
+    }
+   ],
+   "chips": [
+    "¿Qué tipos de habitación hay?",
+    "¿Hay parking?",
+    "¿Admiten mascotas?",
+    "¿Cómo se reserva?"
+   ]
+  },
+  "ca": {
+   "textos_iguales_al_es": [
+    "book",
+    "hero_k",
+    "intro_k",
+    "send",
+    "menu",
+    "langs_label"
+   ],
+   "chat": [
+    {
+     "q": "Quins tipus d'habitació hi ha?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Hi ha habitació doble d'ús individual (ideal per a 1 persona, llit d'1,35 m), habitació doble d'uns 15 m2 (llit doble o dos llits individual"
+    },
+    {
+     "q": "Hi ha wifi i caixa forta?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Les habitacions tenen escriptori, televisió, telèfon, aire condicionat, calefacció, minibar de pagament, caixa forta, wifi gratis, terra de "
+    },
+    {
+     "q": "A quina hora és el check-in?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "El check-in és a partir de les 12:00 h i el check-out, abans de les 12:00 h. Reservant a la seva web ofereixen late check-out sota petició."
+    },
+    {
+     "q": "Admeteu mascotes?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "La seva web indica que no s'admeten mascotes."
+    },
+    {
+     "q": "Hi ha pàrquing?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "L'hotel disposa de garatge privat de pagament. Consulta el preu en reservar."
+    },
+    {
+     "q": "Hi ha esmorzar?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Cada matí es serveix un variat esmorzar buffet al saló d'esmorzars, i la cafeteria de l'hotel ofereix begudes i aperitius."
+    },
+    {
+     "q": "Com arribo des de l'aeroport?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "És al carrer Cervantes 10-12, 41003 Sevilla, al centre històric, a la zona de La Campana, al costat del carrer Sierpes, la plaça de la Encar"
+    },
+    {
+     "q": "Com reservo?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "La seva web convida a reservar a la web oficial (sense despeses de gestió, millor preu, reserva 100% segura) i parla de fins a un 15% de des"
+    },
+    {
+     "q": "Quin és el telèfon?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Telèfon +34 954 900 280; correu info@hotel-cervantes.com."
+    },
+    {
+     "q": "Qui és el titular?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "El peu de la seva web indica Hotel Cervantes - Hotel Residencia Cervantes S.L. (CIF B-41242777), inscrita al Registre Mercantil de Madrid."
+    },
+    {
+     "q": "Hi ha recepció 24 hores?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "La recepció atén les 24 hores i parlen castellà, francès, anglès i italià. Entre els serveis: servei d'habitacions, guarda-equipatge, bugade"
+    },
+    {
+     "q": "Quan es va construir l'edifici?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "És un hotel de quatre estrelles amb encant, en un edifici del segle XIX totalment reformat el 2003 i envoltat d'un típic pati sevillà."
+    },
+    {
+     "q": "Quant costa una habitació?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 954 900 280 · info@hotel-cervantes.com."
+    },
+    {
+     "q": "Confirma'm que hi ha una habitació lliure demà",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "La seva web convida a reservar a la web oficial (sense despeses de gestió, millor preu, reserva 100% segura) i parla de fins a un 15% de des"
+    },
+    {
+     "q": "Hi ha piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 954 900 280 · info@hotel-cervantes.com."
+    },
+    {
+     "q": "Hi ha gimnàs?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 954 900 280 · info@hotel-cervantes.com."
+    }
+   ],
+   "chips": [
+    "Quins tipus d'habitació hi ha?",
+    "Hi ha pàrquing?",
+    "Admeteu mascotes?",
+    "Com es reserva?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k",
+    "stat1"
+   ],
+   "chat": [
+    {
+     "q": "What room types are there?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "There is a double room for single use (ideal for 1 guest, a 1.35 m bed), a double room of about 15 m2 (one double bed or two single beds) an"
+    },
+    {
+     "q": "Is there wifi and a safe?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "The rooms have a desk, television, telephone, air conditioning, heating, a paid minibar, a safe, free wifi, parquet flooring, a bathtub with"
+    },
+    {
+     "q": "What time is check-in?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Check-in is from 12:00 and check-out is before 12:00. When booking on their website they offer late check-out on request."
+    },
+    {
+     "q": "Are pets allowed?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Their website says pets are not accepted."
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "The hotel has a private paid garage. Ask about the price when you book."
+    },
+    {
+     "q": "Is there breakfast?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "A varied buffet breakfast is served every morning in the breakfast room, and the hotel cafe offers drinks and snacks."
+    },
+    {
+     "q": "How do I get there from the airport?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "It is at Calle Cervantes 10-12, 41003 Sevilla, in the historic centre, in the La Campana area, next to Calle Sierpes, Plaza de la Encarnació"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Their website invites you to book on the official site (no booking fees, best price, 100% secure booking) and mentions up to 15% direct disc"
+    },
+    {
+     "q": "What is the phone number?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Phone +34 954 900 280; email info@hotel-cervantes.com."
+    },
+    {
+     "q": "Who is the owner?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "The footer of their website gives Hotel Cervantes - Hotel Residencia Cervantes S.L. (CIF B-41242777), registered in the Madrid Mercantile Re"
+    },
+    {
+     "q": "Is there a 24-hour reception?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Reception is open 24 hours and they speak Spanish, French, English and Italian. Services include room service, luggage storage, laundry and "
+    },
+    {
+     "q": "When was the building constructed?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "It is a charming four-star hotel in a nineteenth-century building fully refurbished in 2003 and surrounded by a typical Sevillian courtyard."
+    },
+    {
+     "q": "How much is a room?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 954 900 280 · info@hotel-cervantes.com."
+    },
+    {
+     "q": "Confirm that there is a free room tomorrow",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Their website invites you to book on the official site (no booking fees, best price, 100% secure booking) and mentions up to 15% direct disc"
+    },
+    {
+     "q": "Is there a swimming pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 954 900 280 · info@hotel-cervantes.com."
+    },
+    {
+     "q": "Is there a gym?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 954 900 280 · info@hotel-cervantes.com."
+    }
+   ],
+   "chips": [
+    "What room types are there?",
+    "Is there parking?",
+    "Are pets allowed?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k",
+    "stat1"
+   ],
+   "chat": [
+    {
+     "q": "Quels types de chambre y a-t-il ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il y a une chambre double à usage individuel (idéale pour 1 personne, lit de 1,35 m), une chambre double d'environ 15 m2 (un lit double ou d"
+    },
+    {
+     "q": "Y a-t-il le wifi et un coffre-fort ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Les chambres ont un bureau, une télévision, un téléphone, la climatisation, le chauffage, un minibar payant, un coffre-fort, le wifi gratuit"
+    },
+    {
+     "q": "À quelle heure est le check-in ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Le check-in est à partir de 12:00 et le check-out avant 12:00. En réservant sur leur site, ils proposent un late check-out sur demande."
+    },
+    {
+     "q": "Les animaux sont-ils admis ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Leur site indique que les animaux ne sont pas admis."
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "L'hôtel dispose d'un garage privé payant. Renseignez-vous sur le tarif lors de la réservation."
+    },
+    {
+     "q": "Y a-t-il un petit-déjeuner ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Un petit-déjeuner buffet varié est servi chaque matin dans la salle des petits-déjeuners, et le café de l'hôtel propose boissons et amuse-bo"
+    },
+    {
+     "q": "Comment venir depuis l'aéroport ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Il est situé calle Cervantes 10-12, 41003 Séville, dans le centre historique, quartier de La Campana, près de la calle Sierpes, de la plaza "
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Leur site invite à réserver sur le site officiel (sans frais de gestion, meilleur prix, réservation 100% sécurisée) et parle de jusqu'à 15% "
+    },
+    {
+     "q": "Quel est le téléphone ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Téléphone +34 954 900 280 ; e-mail info@hotel-cervantes.com."
+    },
+    {
+     "q": "Qui est le titulaire ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Le pied de page de leur site indique Hotel Cervantes - Hotel Residencia Cervantes S.L. (CIF B-41242777), inscrite au Registre du commerce de"
+    },
+    {
+     "q": "Y a-t-il une réception 24 h/24 ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "La réception est ouverte 24 h/24 et ils parlent espagnol, français, anglais et italien. Parmi les services : service en chambre, consigne à "
+    },
+    {
+     "q": "Quand l'immeuble a-t-il été construit ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "C'est un hôtel de charme quatre étoiles, dans un immeuble du XIXe siècle entièrement rénové en 2003 et entouré d'un patio sévillan typique."
+    },
+    {
+     "q": "Combien coûte une chambre ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 954 900 280 · info@hotel-cervantes.com."
+    },
+    {
+     "q": "Confirmez-moi qu'il y a une chambre libre demain",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Leur site invite à réserver sur le site officiel (sans frais de gestion, meilleur prix, réservation 100% sécurisée) et parle de jusqu'à 15% "
+    },
+    {
+     "q": "Y a-t-il une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 954 900 280 · info@hotel-cervantes.com."
+    },
+    {
+     "q": "Y a-t-il une salle de sport ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 954 900 280 · info@hotel-cervantes.com."
+    }
+   ],
+   "chips": [
+    "Quels types de chambre y a-t-il ?",
+    "Y a-t-il un parking ?",
+    "Les animaux sont-ils admis ?",
+    "Comment réserver ?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
