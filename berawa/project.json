@@ -1,0 +1,64 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-hotel-cervantes-sevilla",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-10-29T02:39:00+01:00",
+ "updated_at": "2026-10-29T02:43:00+01:00",
+ "business": {
+  "name": "Hotel Cervantes",
+  "legal_name": "HOTEL RESIDENCIA CERVANTES, S.L.",
+  "registry_ids": [
+   "CIF B41242777",
+   "Registro Mercantil de Madrid, folio 39, tomo 13.165, hoja M-213.077"
+  ],
+  "url": "https://www.hotel-cervantes.com/",
+  "domain": "hotel-cervantes.com",
+  "municipality": "Sevilla",
+  "province": "Sevilla",
+  "address": "Calle Cervantes 10-12 · 41003 Sevilla",
+  "phones": [
+   "954 900 280"
+  ],
+  "emails": [
+   "info@hotel-cervantes.com"
+  ],
+  "sector": "hotel de cuatro estrellas en el centro historico"
+ },
+ "rating": {
+  "value": 4.3,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por telefono, web)",
+  "url": "https://www.google.com/maps/place/Hotel+Cervantes+Sevilla/@37.3955646,-5.9932901,17z/data=!3m1!5s0xd126c05f23239c9:0x1667aa31d7f4cd2b!4m9!3m8!1s0xd126c05f480418f:0xbe84ae26f3268b73!5m2!4m1!1i2!8m2!3d37.3955646!4d-5.9932901!16s%2Fg%2F1tj2pqmv",
+  "date": "2026-10-29T02:29:47+01:00",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "ca",
+  "en",
+  "fr"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "mail",
+  "email": "info@hotel-cervantes.com",
+  "note": "La web del negocio reserva con un motor externo; la demo usa solo contacto real (correo y telefono)."
+ },
+ "audit_original": {
+  "url": "https://www.hotel-cervantes.com/",
+  "date": "@CREATED@",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "primer tipo de negocio sin precedente: hotel urbano de cuatro estrellas (el modelo aprobado Cazorla Rural es alojamiento rural)",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
