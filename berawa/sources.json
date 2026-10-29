@@ -1,0 +1,52 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.hotel-cervantes.com/",
+ "read_at": "2026-10-29T02:40:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.hotel-cervantes.com/",
+   "sha256": "908b89de67974070adadde1769123a67be04037af4c142f204d37441b01fdcb8",
+   "chars": 3669
+  },
+  {
+   "url": "https://www.hotel-cervantes.com/habitaciones.html",
+   "sha256": "ce16bf1aad41e235e686cf4a0e59d1475b54dff28b7d43d4df96d10e44a5acc8",
+   "chars": 4014
+  },
+  {
+   "url": "https://www.hotel-cervantes.com/localizacion.html",
+   "sha256": "0e0cd153b33cc86a74ce18d5da0c4ebfaf53985e5f95cdf2fe18bc31200b2504",
+   "chars": 3271
+  },
+  {
+   "url": "https://www.hotel-cervantes.com/ofertas.html",
+   "sha256": "3ba640c3767bae4e8df0bc202605ed90d7264fb8d5df95af27efaaa0f7a8b5c3",
+   "chars": 2682
+  },
+  {
+   "url": "https://www.hotel-cervantes.com/servicios.html",
+   "sha256": "cdae5299481c48c67a322492c01eed6751d2cac88bc74a751a757318f0f92d65",
+   "chars": 3852
+  }
+ ],
+ "other_pages_read": [
+  "https://www.hotel-cervantes.com/blog.html",
+  "https://www.hotel-cervantes.com/en/",
+  "https://www.hotel-cervantes.com/en/blog.html",
+  "https://www.hotel-cervantes.com/en/gallery.html",
+  "https://www.hotel-cervantes.com/en/location.html",
+  "https://www.hotel-cervantes.com/en/my-bookings.html",
+  "https://www.hotel-cervantes.com/en/offers.html",
+  "https://www.hotel-cervantes.com/en/rooms.html",
+  "https://www.hotel-cervantes.com/en/services.html",
+  "https://www.hotel-cervantes.com/es/?sectionContent=aviso-legal.html",
+  "https://www.hotel-cervantes.com/es/?sectionContent=condiciones-de-reserva.html",
+  "https://www.hotel-cervantes.com/es/?sectionContent=politica-de-cookies.html",
+  "https://www.hotel-cervantes.com/es/?sectionContent=politica-de-privacidad.html",
+  "https://www.hotel-cervantes.com/galeria.html",
+  "https://www.hotel-cervantes.com/mis-reservas.html",
+  "https://www.hotel-cervantes.com/sevilla.html",
+  "https://www.hotel-cervantes.com/tienda.html"
+ ]
+}
